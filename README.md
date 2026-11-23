@@ -1,3 +1,14 @@
+# mf-tiny-stack-vm-01-run-20261122
+
+[![make.fun](https://make.fun/badge/tiny-stack-vm-01-run-20261122.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122)
+[![rank](https://make.fun/badge/tiny-stack-vm-01-run-20261122/JEPEHHH/mf-tiny-stack-vm-01-run-20261122/rank.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122)
+[![reward](https://make.fun/badge/tiny-stack-vm-01-run-20261122/JEPEHHH/mf-tiny-stack-vm-01-run-20261122/reward.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122)
+
+Tiny stack VM interpreter in one Node 22 file
+
+
+---
+
 # tiny-stack-vm-01 entry
 
 Node 22 interpreter of make.fun's tiny stack ISA (the kit's `generator/subject/ISA.md`): no dependencies, no
